@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ブックマーク ア・ヘッド (Type-11)",
+  "base_artist": "第501統合戦闘航空団",
+  "createdAt": "2026-02-15T16:12:14.917981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブックマーク ア・ヘッド",
+      "artist": "石田燿子",
+      "has_synced": false,
+      "path": "select/01_ブックマーク_ア・ヘッド_石田燿子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブックマーク ア・ヘッド - Type-11",
+      "artist": "第501統合戦闘航空団",
+      "has_synced": false,
+      "path": "select/pl_01_ブックマーク_ア・ヘッド_-_Type-11_第501統合戦闘航空団.txt"
+    }
+  ]
+}
